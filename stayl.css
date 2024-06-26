@@ -1,0 +1,26 @@
+.ana{
+   padding: 100px;text-align: center;
+background-color: cadetblue;
+}
+.gg{
+   border: 10px solid rgb(0, 0, 0);
+    background-color: black ;
+    border: 5px solid rgb(255, 0, 0);
+} 
+.mm{
+    background-color: aquamarine;
+    border: black;
+}
+.mn{
+    background-color: aquamarine;
+    border: black;
+}
+.nm{
+    background-color: brown;
+    text-align: center;
+    color: aliceblue;
+}
+/* .bb{
+    border: 5px solid red;
+    background-color: black;
+} */
